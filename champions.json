@@ -1,0 +1,114 @@
+{
+    "champion": [
+        {
+            "name": "Angel Master Yi (Golden)",
+            "image": "https://media.discordapp.net/attachments/1286045509131440168/1286045509567512789/image.png?ex=66f1c0b7&is=66f06f37&hm=ebdc4b58f7847763a0644ac7fdce6a6bf7bba9b4bbd899f3c184dc402f8f6945&=&format=webp&quality=lossless&width=711&height=468",
+            "url": "https://cdn.discordapp.com/attachments/1287655087669514270/1287655434668474429/Angel_Yi_Golden_V1.0_by_Lexa.fantome?ex=66f25613&is=66f10493&hm=338031b8e34afb2c39a373e25c259a27f0ad48ebee5eeb1500efd908c27f4d17&"
+        },
+        {
+            "name": "Demon Draven",
+            "image": "https://cdn.discordapp.com/attachments/1193404786553409596/1193404787253854258/image.png?ex=66f23a51&is=66f0e8d1&hm=9e7920a61d4e5f5db7b8b7ba08628e12ed8cef37792604f7f59938fa3974c1f9&",
+            "url": "https://cdn.discordapp.com/attachments/1287655087669514270/1287655413956739093/Demon_Draven_V1.0_by_Lexa.fantome?ex=66f2560e&is=66f1048e&hm=cf538995fb163280c0ce5b13e01cfcbf1521b97a2705a92809da2319315038bf&" 
+        },
+        {
+            "name": "Ghostly Death Raven Evelynn",
+            "image": "https://cdn.discordapp.com/attachments/1261698603940974642/1261698604356075520/test.00_00_02_01.Still001.png?ex=66f22b24&is=66f0d9a4&hm=c2221b2b208308fa2a840642ee220dfd33b8a252e0bee838c4c2231eaf5807b3&",
+            "url": "https://cdn.discordapp.com/attachments/1287655087669514270/1287656878289195019/Ghostly_Death_Raven_Evelynn_V1.0_by_Lexa.fantome?ex=66f2576b&is=66f105eb&hm=1af6fd1dc7a54f3514ae4802a26820f108b71c45dfe9206560517509017bd4f9&"
+        },
+        {
+            "name": "Ghostly Death Raven Hecarim",
+            "image": "https://cdn.discordapp.com/attachments/1273027779268448276/1273027779662970930/image.png?ex=66f1db02&is=66f08982&hm=186587fb878aac4cce663b34862f358cda35c5cd211ab836993734922fddd0ea&",
+            "url": "https://cdn.discordapp.com/attachments/1287655087669514270/1287657083600371762/Ghostly_Death_Raven_Hecarim_V1.0_by_Lexa.fantome?ex=66f2579c&is=66f1061c&hm=9623f8500cf118cbdd229101b95869955f12a88cdd4360c145f24cb02c20ef6d&"
+        },
+        {
+            "name": "Ghostly Death Raven Twitch",
+            "image": "https://media.discordapp.net/attachments/1252540309062291526/1252540309364019221/image.png?ex=66f1cf50&is=66f07dd0&hm=7c8847c3195be9db2f1dbe813b070058aef98051aa5936ad78e19531d0d8ce25&=&format=webp&quality=lossless&width=1027&height=676",
+            "url": "https://cdn.discordapp.com/attachments/1252540309062291526/1278493769884500028/Ghostly_Raven_Twitch_7_Chromas.zip?ex=66f1f71c&is=66f0a59c&hm=04aa717b570fb4c33651b65390c9ec6aed7c5b9a9a59194c48a671d6f96a045e&"
+        },
+        {
+            "name": "Aurora Gojo",
+            "image": "https://cdn.discordapp.com/attachments/1257479348420612118/1257479349301674004/image.png?ex=66f1fae7&is=66f0a967&hm=e0e9f76a0ed6cbe86847469dfbe3024ec8632dce966761b710e7374bfa0c3b1b&",
+            "url": "https://cdn.discordapp.com/attachments/1257479348420612118/1257479349301674004/image.png?ex=66f1fae7&is=66f0a967&hm=e0e9f76a0ed6cbe86847469dfbe3024ec8632dce966761b710e7374bfa0c3b1b&"
+        },
+        {
+            "name": "Sanemi Yasuo",
+            "image": "https://cdn.discordapp.com/attachments/1262830243949838367/1262830244382117899/image.png?ex=66f25490&is=66f10310&hm=9bcdb57a01e2ea8bd343237898406c9b7de69ada813fee9ad776624e76d645b0&",
+            "url": "https://cdn.discordapp.com/attachments/1262830243949838367/1262830276766204026/Sanemi_Yasuo_V1.0_by_Lexa.fantome?ex=66f25498&is=66f10318&hm=fa513d82229f1f7235fdffdc4a52ba95a479e10624b551ed26efeada2a629660&"
+        },
+        {
+            "name": "Sheild Hero Braum",
+            "image": "https://cdn.discordapp.com/attachments/1259969829977460746/1259969830371463239/image.png?ex=66f1cfd8&is=66f07e58&hm=d0ceaf7d163be8a0fabf953d1f0bd890c3b542fae3972db48e4f29bf32965e9a&",
+            "url": "https://cdn.discordapp.com/attachments/1259969829977460746/1259969955475095773/Shield_Hero_Braum_V1.0_by_Lexa.fantome?ex=66f1cff6&is=66f07e76&hm=574febd4012d3b98fe7c3a0f0a3ed452ce820b7764e799641a027e819feda1c0&"
+        },
+        {
+            "name": "Angel Viego (Fallen)",
+            "image": "",
+            "url": "https://cdn.discordapp.com/attachments/1184828676383187054/1254750831090204745/Fallen_Angel_Viego_V1.0_by_Lexa.fantome?ex=66f1f106&is=66f09f86&hm=1bfa390c01d6aefaf942c910542c0267ea56b0234f7f62d19f1aad56632bed10&"
+        },
+        {
+            "name": "Angel Viego (Gold)",
+            "image": "https://cdn.discordapp.com/attachments/1287655087669514270/1287660453710794824/image.png?ex=66f25abf&is=66f1093f&hm=116945b5d4cfc4d26f198551050273afd23552067ecc165d1951496870481ac5&",
+            "url": "https://cdn.discordapp.com/attachments/1184828676383187054/1254750831635337246/Gold_Angel_Viego_V1.0_by_Lexa.fantome?ex=66f1f106&is=66f09f86&hm=504716d963e80dcc3f431fd36a496b9679a324e984b2d28f780d848d67eb5dea&"
+        },
+        {
+            "name": "Angel Kog'Maw",
+            "image": "https://cdn.discordapp.com/attachments/1193405745421615184/1193405746260484146/image.png?ex=66f23b36&is=66f0e9b6&hm=2baf0a96e74d59edfde4068972a4d3d8c709842e4d6b3bb7754c55dfdfcb149a&",
+            "url": "https://cdn.discordapp.com/attachments/1193405745421615184/1254740794896547920/Angel_Kogman_V1.0_by_Lexa.fantome?ex=66f1e7ad&is=66f0962d&hm=76f5f0e48ae1ce20ab94bb597125f1192ca189289c63dc0d2cabaaa4f4bc4168&"
+        },
+        {
+            "name": "Kaneki Ezreal",
+            "image": "https://media.discordapp.net/attachments/1251381670515445791/1254533556496109578/image.png?ex=66f1cf6b&is=66f07deb&hm=8324bca7318c883fc8ed7443c5ed16e2c180bf4d1f264cc4762dbbcce6394550&=&format=webp&quality=lossless&width=1027&height=676",
+            "url": "https://cdn.discordapp.com/attachments/1254539666561175602/1254540125275426969/Kaneki_Ezreal_V1.0_by_Lexa.fantome?ex=66f1d58a&is=66f0840a&hm=79cc12ce94785b37fdf72ff774947cf680c91357de8329e2ebb215f4395d1ff1&"
+        },
+        {
+            "name": "Arlecchino Kayn",
+            "image": "https://cdn.discordapp.com/attachments/1251381670515445791/1252950246431002715/image.png?ex=66f1fb99&is=66f0aa19&hm=85edba5b579330ba9ff3d2b8c2b3a3e228e45fe10035f3e8780db191ebf6acc9&",
+            "url": "https://cdn.discordapp.com/attachments/1252901627179044977/1253057611566415882/Arlecchino_Kayn_V1.0_by_Lexa.fantome?ex=66f1b6d7&is=66f06557&hm=3dd62fb24ce0844fb5e1a43e43d96c8cdac4a3073fe7a8132f7de32410cd63ae&"
+        },
+        {
+            "name": "Sponge Bob Pyke",
+            "image": "https://cdn.discordapp.com/attachments/1251381670515445791/1252539035872788522/image.png?ex=66f1ce21&is=66f07ca1&hm=9816efb15a92d0f93ae795c1970d553d3333f27e33a3414a0aae6896f1064e92&",
+            "url": "https://cdn.discordapp.com/attachments/1252533923490172999/1252830504428900434/SpongeBob_Pyke_V1.0_by_Lexa.fantome?ex=66f234d4&is=66f0e354&hm=25cfbb9ab9f736e8804c8b7f6a81059b52c7a77ef36c1b7fdafd96a35c896705&"
+        },
+        {
+            "name": "Naruto Zed",
+            "image": "https://cdn.discordapp.com/attachments/1251381670515445791/1252530435892711506/image.png?ex=66f1c61e&is=66f0749e&hm=86be7d3ae97325b14688d07432c65ccbab0d84f8b2c8f5aebb6017f03c78a929&",
+            "url": "https://cdn.discordapp.com/attachments/1252521837162659891/1252592644190633996/Naruto_Zed_V1.0_by_Lexa.fantome?ex=66f2000e&is=66f0ae8e&hm=c7a2dcfba8deadd95ad501897fba8b2f2e01bdfda582328e03adfea9c7c09bc3&"
+        },
+        {
+            "name": "Miles Morales Ekko",
+            "image": "https://cdn.discordapp.com/attachments/1251381670515445791/1252459314052861962/image.png?ex=66f22ca2&is=66f0db22&hm=c45da14a126ad220c2c95e2fc5b9d89d724588f7979ccc3489e4ece637a00821&",
+            "url": "https://cdn.discordapp.com/attachments/1252452083324424364/1252592439001350217/Miles_Morales_Ekko_V2.0_by_Lexa.fantome?ex=66f1ffdd&is=66f0ae5d&hm=1c1f289ad7186325dad3adc07904f7c36b92ac654a4cb1baf41364dd88169b8e&"
+        },
+        {
+            "name": "BelCov Belveth",
+            "image": "https://cdn.discordapp.com/attachments/1251381670515445791/1252450667000365067/image.png?ex=66f22494&is=66f0d314&hm=212dedbc43f7d49e1bd7365e4a138300def392195c910caa3cc73a2bd663b848&",
+            "url": "https://cdn.discordapp.com/attachments/1252448623913078854/1252592356536881182/BelCov_V1.0_by_Lexa.fantome?ex=66f1ffc9&is=66f0ae49&hm=57a967f0782340c3a26b4415fefaa3c279cc9510887002ea182d0f9ba53845be&"
+        },
+        {
+            "name": "Guts Armored Tryndamere",
+            "image": "https://cdn.discordapp.com/attachments/1137867789013630998/1137868002881191998/image.png?ex=66f1e528&is=66f093a8&hm=fa0cd247a165011beb0d28cb1fce46241c72efbb385718b244b3a734c6645cf6&",
+            "url": "https://cdn.discordapp.com/attachments/1137867789013630998/1137868094224732180/Guts_Tryndamere_V1.0_by_Lexa.fantome?ex=66f1e53e&is=66f093be&hm=0b087040692bb6ebfe4ffdf02da1d4ea718c2ffda1d1890d657d4f8b092b90ed&"
+        },
+        {
+            "name": "KDA Code Pink Katarina",
+            "image": "https://static.wixstatic.com/media/a0a633_5a7db00ea38e4b2d867ae068a1c80692~mv2.webp/v1/fill/w_740,h_416,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/a0a633_5a7db00ea38e4b2d867ae068a1c80692~mv2.webp",
+            "url": "https://cdn.discordapp.com/attachments/1287655087669514270/1287657225493413888/KDA_Code_Pink_Katarina_V1.0_by_LordksOP.fantome?ex=66f257be&is=66f1063e&hm=61a0e4917fa9e9eeea15da902eeee612d7e5a74d8bd25a32815ea3ae94b3d342&"
+        },
+        {
+            "name": "Crystal Rose Katarina",
+            "image": "https://static.wixstatic.com/media/de9ffb_fc2720640c954e7ead4f812760331be3~mv2.png/v1/fill/w_740,h_423,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/de9ffb_fc2720640c954e7ead4f812760331be3~mv2.png",
+            "url": "https://cdn.discordapp.com/attachments/1287655087669514270/1287657025152749589/Crystal_Rose_Katarina_V1.3_by_Bearded_Shepherd.fantome?ex=66f2578e&is=66f1060e&hm=cda1d8a36e755e14f7d62f2a45736941c5aef685342216c7488d7782cc3338dc&"
+        },
+        {
+            "name": "Kars Kha'Zix",
+            "image": "https://static.wixstatic.com/media/735c27_1cffed06a090462fa4138228eaa7019b~mv2.png",
+            "url": "https://cdn.discordapp.com/attachments/1287655087669514270/1287656780964298762/Kars_Zix_V1.1_by_Kaizen.fantome?ex=66f25754&is=66f105d4&hm=42a8342741ef5d12719b08a9b7fcb89991b8801084d635bafa6082cedf4c3c23&"
+        },
+        {
+            "name": "Shadow Talon",
+            "image": "https://cdn.discordapp.com/attachments/1271623953601007636/1271623954385080376/image.png?ex=66f20598&is=66f0b418&hm=1adf1d0594ca35e41c7e4195b6e0ce3d1fb0cfcd561f103d34444bafcd4683f2&",
+            "url": "https://cdn.discordapp.com/attachments/1287655087669514270/1287655661550698517/Shadow_Talon_V1.0_by_Lexa.fantome?ex=66f25649&is=66f104c9&hm=8539747264b0edeb0aa523b920175bceee96aaa9226d08e39d669f63352273d0&"
+        }
+    ]
+}
